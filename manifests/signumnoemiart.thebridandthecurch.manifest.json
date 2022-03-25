@@ -42,6 +42,11 @@
         },
         "on" : "http://e6a21782-9ab9-4771-8622-d7f2cacf145a"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://noemiorav.github.io/Test.Medieval.Imaginay.Signum.Noemi.Digital.Art/annotations/0fb815e8ac7c621b5993541ed3db7878.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://e977e195-f6b5-47b6-a6ac-1d5459b6a497",
@@ -74,6 +79,11 @@
         },
         "on" : "http://e977e195-f6b5-47b6-a6ac-1d5459b6a497"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://noemiorav.github.io/Test.Medieval.Imaginay.Signum.Noemi.Digital.Art/annotations/c23c34ab08f313798ba78df8ff6c44df.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://5c2a8a71-d965-41a4-909f-39bdb5505667",
@@ -103,6 +113,11 @@
           "width" : 660
         },
         "on" : "http://5c2a8a71-d965-41a4-909f-39bdb5505667"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://noemiorav.github.io/Test.Medieval.Imaginay.Signum.Noemi.Digital.Art/annotations/b2bbc3baf6675bc53eaf9c02cf890496.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "related" : ""
     }, {
@@ -136,7 +151,32 @@
         },
         "on" : "http://4ce26fb7-4b77-4a80-a9b0-69e069de2a12"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://noemiorav.github.io/Test.Medieval.Imaginay.Signum.Noemi.Digital.Art/annotations/539c155493b0b811fd9f134b92dc839d.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
       "related" : ""
+    }, {
+      "@id" : "http://example.com/canvas/2",
+      "@type" : "sc:Canvas",
+      "label" : "British Library, Egerton MS 1900, German translation of Niccolò da Poggibonsi’s Libro d’Oltramare; itinerary of a trip from Europe to the Holy Land and back; instructions for pilgrims to Jerusalem, c 1465, detail fol 12v",
+      "height" : 194,
+      "width" : 154,
+      "thumbnail" : "http://www.bl.uk/manuscripts/Proxy.ashx?view=egerton_ms_1900_f012v_files/8/0_0.jpg",
+      "images" : [ {
+        "@id" : "http://example.com/canvas/2/annotation/1",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://www.bl.uk/manuscripts/Proxy.ashx?view=egerton_ms_1900_f012v_files/8/0_0.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 194,
+          "width" : 154
+        },
+        "on" : "http://example.com/canvas/2"
+      } ]
     } ]
   } ],
   "structures" : [ ]
