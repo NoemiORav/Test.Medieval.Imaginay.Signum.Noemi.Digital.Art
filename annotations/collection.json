@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://NoemiORav.github.io/Test.Medieval.Imaginay.Signum.Noemi.Digital.Art/annotations/0fb815e8ac7c621b5993541ed3db7878.json", "https://NoemiORav.github.io/Test.Medieval.Imaginay.Signum.Noemi.Digital.Art/annotations/539c155493b0b811fd9f134b92dc839d.json", "https://NoemiORav.github.io/Test.Medieval.Imaginay.Signum.Noemi.Digital.Art/annotations/b2bbc3baf6675bc53eaf9c02cf890496.json" ],
+  "otherContent" : [ "https://NoemiORav.github.io/Test.Medieval.Imaginay.Signum.Noemi.Digital.Art/annotations/0fb815e8ac7c621b5993541ed3db7878.json", "https://NoemiORav.github.io/Test.Medieval.Imaginay.Signum.Noemi.Digital.Art/annotations/539c155493b0b811fd9f134b92dc839d.json", "https://NoemiORav.github.io/Test.Medieval.Imaginay.Signum.Noemi.Digital.Art/annotations/b2bbc3baf6675bc53eaf9c02cf890496.json", "https://NoemiORav.github.io/Test.Medieval.Imaginay.Signum.Noemi.Digital.Art/annotations/c23c34ab08f313798ba78df8ff6c44df.json" ],
   "@id" : "https://NoemiORav.github.io/Test.Medieval.Imaginay.Signum.Noemi.Digital.Art/annotations/collection.json",
   "label" : "All annotations loaded in NoemiORav/Test.Medieval.Imaginay.Signum.Noemi.Digital.Art project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
