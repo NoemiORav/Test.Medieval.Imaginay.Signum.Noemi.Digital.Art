@@ -1,0 +1,143 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://NoemiORav.github.io/Test.Medieval.Imaginay.Signum.Noemi.Digital.Art/manifests/signumnoemiart.thebridandthecurch.manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "The Brid and The church Art and Inspiration",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Noemi is an artist based in London. Some of her works combine her medieval studies and passion, transforming medieval bestiaries into the objects of her paintings. She creates her artworks by bridging between medieval illuminations and marginalia, and her own imagination.\nYou can explore more of her art on her Instagram @signumnoemi.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Each image comes from a different source: 1. Signum Noemi Art 2. The J. Paul Getty Museum 3. Harvard Art Museum 4.  Bodleian Library",
+  "sequences" : [ {
+    "@id" : "http://9903cd06-878b-4cc8-8d74-4f3948218944",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://e6a21782-9ab9-4771-8622-d7f2cacf145a",
+      "@type" : "sc:Canvas",
+      "label" : "The bird and the church created by Noemi Ortega Raventos (@signumnoemi)",
+      "height" : 4000,
+      "width" : 5000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://8e1aad22-3145-4b71-b6b0-6be8c1f9c292",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/the-curch-and-the-bird-created-by-signum-noemi/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/the-curch-and-the-bird-created-by-signum-noemi",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 4000,
+          "width" : 5000
+        },
+        "on" : "http://e6a21782-9ab9-4771-8622-d7f2cacf145a"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://e977e195-f6b5-47b6-a6ac-1d5459b6a497",
+      "@type" : "sc:Canvas",
+      "label" : "The J. Paul Getty Museum, Ms. Ludwig XV 3 (83.MR.173), f 68",
+      "height" : 6216,
+      "width" : 4599,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://afa0bde5-4c97-4463-be53-5617a63121d0",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://media.getty.edu/iiif/image/e212ccc1-fe9e-43fc-b7fc-0bf1ba961bd1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://media.getty.edu/iiif/image/e212ccc1-fe9e-43fc-b7fc-0bf1ba961bd1",
+            "profile" : [ "http://iiif.io/api/image/2/level2", {
+              "formats" : [ "jpg", "png" ],
+              "qualities" : [ "native", "color", "gray", "bitonal" ],
+              "supports" : [ "regionByPct", "regionSquare", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "sizeUpscaling", "rotationBy90s", "mirroring" ],
+              "maxWidth" : 30000,
+              "maxHeight" : 30000
+            } ]
+          },
+          "height" : 6216,
+          "width" : 4599
+        },
+        "on" : "http://e977e195-f6b5-47b6-a6ac-1d5459b6a497"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://5c2a8a71-d965-41a4-909f-39bdb5505667",
+      "@type" : "sc:Canvas",
+      "label" : "Harvard Art Musuem, 1972.3, Manuscript of the 'Aja'ib al-makhluqat (Wonders of Creation) of Qazwini, c. 1650-1700, detail 28v",
+      "height" : 1024,
+      "width" : 660,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://74ea3e6b-ab1b-4223-8f6e-d2b4a3db1d6f",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ids.lib.harvard.edu/ids/iiif/14136731/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ids.lib.harvard.edu/ids/iiif/14136731",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "canonicalLinkHeader", "profileLinkHeader", "mirroring", "rotationArbitrary", "regionSquare", "sizeAboveFull" ],
+              "qualities" : [ "default", "bitonal", "gray", "color" ],
+              "formats" : [ "jpg", "tif", "png", "gif", "webp" ]
+            } ]
+          },
+          "height" : 1024,
+          "width" : 660
+        },
+        "on" : "http://5c2a8a71-d965-41a4-909f-39bdb5505667"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://4ce26fb7-4b77-4a80-a9b0-69e069de2a12",
+      "@type" : "sc:Canvas",
+      "label" : "Bodleian Library, MS. Bodl. 764, Bestiary, 1226–1250, detail fol  53v",
+      "height" : 8846,
+      "width" : 5588,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://8aa6bc59-e151-480a-8e54-db4a5c38eb98",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.bodleian.ox.ac.uk/iiif/image/51947544-f5f1-4daa-9c64-3c02f2a803f8/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.bodleian.ox.ac.uk/iiif/image/51947544-f5f1-4daa-9c64-3c02f2a803f8",
+            "profile" : [ "http://iiif.io/api/image/2/level1", {
+              "formats" : [ "jpg" ],
+              "qualities" : [ "native", "color", "gray", "bitonal" ],
+              "supports" : [ "regionByPct", "regionSquare", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "sizeUpscaling", "rotationBy90s", "mirroring" ],
+              "maxWidth" : 4000,
+              "maxHeight" : 4000
+            } ]
+          },
+          "height" : 8846,
+          "width" : 5588
+        },
+        "on" : "http://4ce26fb7-4b77-4a80-a9b0-69e069de2a12"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
