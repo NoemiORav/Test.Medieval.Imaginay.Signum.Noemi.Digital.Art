@@ -1,0 +1,135 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "religious building",
+      "@type" : "oa:Tag",
+      "chars" : "religious building"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Church",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Church</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/104735865106160599753",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-03-25T08:30:47",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648197047646",
+    "dcterms:modified" : "2022-03-25T08:30:47",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://NoemiORav.github.io/Test.Medieval.Imaginay.Signum.Noemi.Digital.Art/manifests/signumnoemiart.thebridandthecurch.manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=915,375,2030,2904"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M914.50245,374.77461h1015.22387v0h1015.22387v1452.24717v1452.24717h-1015.22387h-1015.22387v-1452.24717z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_4a9e4d10-0fb2-4505-a83d-a28516b60235\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://e6a21782-9ab9-4771-8622-d7f2cacf145a"
+    }, {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://NoemiORav.github.io/Test.Medieval.Imaginay.Signum.Noemi.Digital.Art/manifests/signumnoemiart.thebridandthecurch.manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4609,1950,2,2"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4608.58614,1949.70762h1v0h1v1v1h-1h-1v-1z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_6ce69e3a-9ffe-4b14-bc8c-8330d0d5ac8c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://e6a21782-9ab9-4771-8622-d7f2cacf145a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Plant",
+      "@type" : "oa:Tag",
+      "chars" : "Plant"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Plant",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Plant</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/104735865106160599753",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-03-25T08:31:29",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648197089527",
+    "dcterms:modified" : "2022-03-25T08:31:29",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://NoemiORav.github.io/Test.Medieval.Imaginay.Signum.Noemi.Digital.Art/manifests/signumnoemiart.thebridandthecurch.manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2737,2024,1742,1511"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2736.80713,2023.91912h870.92373v0h870.92373v755.48361v755.48361h-870.92373h-870.92373v-755.48361z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_22d7f0ce-bfe7-4620-9617-2dda1c48e4df\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://e6a21782-9ab9-4771-8622-d7f2cacf145a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "animal",
+      "@type" : "oa:Tag",
+      "chars" : "animal"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Bird",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Bird</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/104735865106160599753",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-03-25T08:29:43",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648196983047",
+    "dcterms:modified" : "2022-03-25T08:29:43",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://NoemiORav.github.io/Test.Medieval.Imaginay.Signum.Noemi.Digital.Art/manifests/signumnoemiart.thebridandthecurch.manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2358,336,2591,2072"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2357.82272,336.48691h1295.57844v0h1295.57844v1035.83818v1035.83818h-1295.57844h-1295.57844v-1035.83818z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_98007708-8e9f-4346-91c8-5cb48337b922\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://e6a21782-9ab9-4771-8622-d7f2cacf145a"
+    } ]
+  } ],
+  "@id" : "https://NoemiORav.github.io/Test.Medieval.Imaginay.Signum.Noemi.Digital.Art/annotations/0fb815e8ac7c621b5993541ed3db7878.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
