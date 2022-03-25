@@ -1,0 +1,80 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Animals",
+      "@type" : "oa:Tag",
+      "chars" : "Animals"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Lion",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Lion</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/104735865106160599753",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-03-25T08:32:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648197122212",
+    "dcterms:modified" : "2022-03-25T08:32:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://NoemiORav.github.io/Test.Medieval.Imaginay.Signum.Noemi.Digital.Art/manifests/signumnoemiart.thebridandthecurch.manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=694,805,2747,2089"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M694.48701,805.27273h1373.36364v0h1373.36364v1044.68831v1044.68831h-1373.36364h-1373.36364v-1044.68831z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_a61b99da-f0f0-41f5-9a5a-a8fba7d8c1f5\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://e977e195-f6b5-47b6-a6ac-1d5459b6a497"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Illumination",
+      "@type" : "oa:Tag",
+      "chars" : "Illumination"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "<a href=\"https://www.getty.edu/art/collection/object/103SAV\" target=\"_blank\" rel=\"noopener\">*Two Lions*&nbsp;(detail), about 1270, Franco-Flemish. Tempera colors, gold leaf, and ink on parchment, 7 1/2 &times; 5 5/8 in. The J. Paul Getty Museum, Ms. Ludwig XV 3 (83.MR.173), fol. 68",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><a href=\"https://www.getty.edu/art/collection/object/103SAV\" target=\"_blank\" rel=\"noopener\">*Two Lions*&nbsp;(detail), about 1270, Franco-Flemish. Tempera colors, gold leaf, and ink on parchment, 7 1/2 &times; 5 5/8 in. The J. Paul Getty Museum, Ms. Ludwig XV 3 (83.MR.173), fol. 68</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/104735865106160599753",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-03-25T08:34:47",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648197287943",
+    "dcterms:modified" : "2022-03-25T08:34:47",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://NoemiORav.github.io/Test.Medieval.Imaginay.Signum.Noemi.Digital.Art/manifests/signumnoemiart.thebridandthecurch.manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=309,496,3504,2570"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3812.7013,3065.63636h-1751.93506v0h-1751.93506v-1284.87013v-1284.87013h1751.93506h1751.93506v1284.87013z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_c70e3f5d-7b27-48cc-9ca8-8395cdc8ae38\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://e977e195-f6b5-47b6-a6ac-1d5459b6a497"
+    } ]
+  } ],
+  "@id" : "https://NoemiORav.github.io/Test.Medieval.Imaginay.Signum.Noemi.Digital.Art/annotations/c23c34ab08f313798ba78df8ff6c44df.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
