@@ -1,0 +1,13 @@
+{
+  "id" : "https://NoemiORav.github.io/Test.Medieval.Imaginay.Signum.Noemi.Digital.Art/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in NoemiORav/Test.Medieval.Imaginay.Signum.Noemi.Digital.Art project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://NoemiORav.github.io/Test.Medieval.Imaginay.Signum.Noemi.Digital.Art/manifests/signumnoemiart.thebridandthecurch.manifest.json",
+    "label" : "The Brid and The church Art and Inspiration"
+  } ]
+}
