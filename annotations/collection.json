@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://NoemiORav.github.io/Test.Medieval.Imaginay.Signum.Noemi.Digital.Art/annotations/0fb815e8ac7c621b5993541ed3db7878.json" ],
+  "@id" : "https://NoemiORav.github.io/Test.Medieval.Imaginay.Signum.Noemi.Digital.Art/annotations/collection.json",
+  "label" : "All annotations loaded in NoemiORav/Test.Medieval.Imaginay.Signum.Noemi.Digital.Art project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
