@@ -1,0 +1,76 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Constellation",
+      "@type" : "oa:Tag",
+      "chars" : "Constellation"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Cassiopeia",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Cassiopeia</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/104735865106160599753",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-03-25T08:36:19",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648197379421",
+    "dcterms:modified" : "2022-03-25T08:36:19",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://NoemiORav.github.io/Test.Medieval.Imaginay.Signum.Noemi.Digital.Art/manifests/signumnoemiart.thebridandthecurch.manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=41,353,226,340"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M41.12801,353.26531h113.08905v0h113.08905v170.08349v170.08349h-113.08905h-113.08905v-170.08349z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_88e21197-3855-4623-bdff-77cdbf8a07d5\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://5c2a8a71-d965-41a4-909f-39bdb5505667"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<a href=\"https://hvrd.art/o/216430\" target=\"_blank\" rel=\"noopener\">Harvard Art Musuem, 1972.3, Manuscript of the 'Aja'ib al-makhluqat (Wonders of Creation) of Qazwini, c. 1650-1700, detail 28v",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><a href=\"https://hvrd.art/o/216430\" target=\"_blank\" rel=\"noopener\">Harvard Art Musuem, 1972.3, Manuscript of the 'Aja'ib al-makhluqat (Wonders of Creation) of Qazwini, c. 1650-1700, detail 28v</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/104735865106160599753",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-03-25T08:38:13",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648197493053",
+    "dcterms:modified" : "2022-03-25T08:38:13",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://NoemiORav.github.io/Test.Medieval.Imaginay.Signum.Noemi.Digital.Art/manifests/signumnoemiart.thebridandthecurch.manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=25,250,273,466"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M25.14531,250.45137h136.72655v0h136.72655v233.09239v233.09239h-136.72655h-136.72655v-233.09239z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_5bc7baaf-8a0c-46fd-995b-a395684737b7\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://5c2a8a71-d965-41a4-909f-39bdb5505667"
+    } ]
+  } ],
+  "@id" : "https://NoemiORav.github.io/Test.Medieval.Imaginay.Signum.Noemi.Digital.Art/annotations/b2bbc3baf6675bc53eaf9c02cf890496.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
